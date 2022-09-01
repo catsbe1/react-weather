@@ -1,0 +1,13 @@
+:root {
+  --bg-color: #393e46;
+  --main-color: #f2f2f2;
+  --sec-color: #d1cebd;
+}
+
+.Forecast {
+  font-size: 15px;
+}
+
+.Forecast .icon {
+  color: paleturquoise;
+}

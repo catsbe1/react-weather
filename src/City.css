@@ -1,0 +1,30 @@
+:root {
+  --bg-color: #393e46;
+  --main-color: #f2f2f2;
+}
+
+.City .current-city {
+  font-size: 40px;
+}
+
+.City .current-temp {
+  font-size: 30px;
+}
+
+.City #icon {
+  font-size: 60px;
+  color: paleturquoise;
+}
+
+.City .today-description {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.City .container {
+  text-align: center;
+}
+.City form {
+  margin-bottom: 20px;
+}
